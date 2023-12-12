@@ -16,17 +16,17 @@
 
 ##
 
-<p align="left">
-  <img align="center" src="https://github.com/mrtaki67/mrtaki67/assets/140362777/cc481d64-6089-42ee-9023-069465c4844f" alt="Imagem">
-
-
-  
-</p>
-
-##
- 
 <div> 
   <a href="https://instagram.com/_mr.taki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:castrothiago6167@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+<p align="left">
+  <img align="center" src="https://github.com/mrtaki67/mrtaki67/assets/140362777/cc481d64-6089-42ee-9023-069465c4844f" alt="Imagem">
+</p>
+
+##
+
 
