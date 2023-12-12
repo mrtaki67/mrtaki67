@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Opa, tudo bem?! Me chamo Taki :D
 
 - 📚 Estudando para me tornar um web-developer
