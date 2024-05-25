@@ -8,6 +8,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PYTHON" height="30" width="30" src="https://github.com/mrtaki67/mrtaki67/assets/140362777/a5358971-ff2b-4e7e-ba7e-724b8b60e47e">
+  <img align="center" alt="PYTHON" height="30" width="30" src="https://www.flaticon.com/br/icone-gratis/servidor-sql_5815478?term=sql&page=1&position=2&origin=search&related_id=5815478">
 </div>
 
 ##
