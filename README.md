@@ -1,7 +1,6 @@
-## Opa, tudo bem?! Me chamo Taki :D
+## Opa, tudo bem?! Me chamo Thiago :D
 
 - 📚 Estudando para engenharia de software
-- 🥀 Pronouns: she/he
 - 💻 Futuro full-Stack
 
 <div style="display: inline_block"><br>
