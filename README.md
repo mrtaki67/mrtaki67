@@ -14,7 +14,7 @@
   <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
-  <img align="center" alt="NestJS" height="30" width="40" src="https://github.com/user-attachments/assets/e762aba6-7fb2-4ba2-9f4e-8c2267d0d321"> 
+  <img align="center" alt="NestJS" height="40" width="40" src="https://github.com/user-attachments/assets/e762aba6-7fb2-4ba2-9f4e-8c2267d0d321"> 
   
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/user-attachments/assets/1fd4aa96-0ad3-420b-8c8c-b226671d6c9b">
 
