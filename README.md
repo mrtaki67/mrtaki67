@@ -16,7 +16,7 @@
   
   <img align="center" alt="NestJS" height="40" width="40" src="https://github.com/user-attachments/assets/e762aba6-7fb2-4ba2-9f4e-8c2267d0d321"> 
   
-  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://github.com/user-attachments/assets/28205e2c-c578-4397-8597-420fd8a272bd">
+  <img align="center" alt="TailwindCSS" height="40" width="60" src="https://github.com/user-attachments/assets/28205e2c-c578-4397-8597-420fd8a272bd">
 
 
   
