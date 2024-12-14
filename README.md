@@ -32,8 +32,6 @@
 
 ---
 
-## 📈 Minhas Estatísticas  
-
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtaki67&show_icons=true&theme=gotham)
 
 ---
