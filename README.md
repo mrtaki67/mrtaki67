@@ -1,6 +1,6 @@
-# Opa, tudo bem? Me chamo Thiago! 😄  
+# Opa, tudo bem? Me chamo Thiago! :D  
 📚 Estudando para me tornar engenheiro de software  
-💻 Aspirante a Desenvolvedor Full-Stack  
+💻 Evoluindo para Desenvolvedor Full-Stack  
 
 ---
 
@@ -13,7 +13,9 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  
+  <img align="center" alt="NestJS" height="30" width="40" src="https://github.com/user-attachments/assets/e762aba6-7fb2-4ba2-9f4e-8c2267d0d321"> 
+  
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="ViteJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/prisma/docs/main/images/logo-icon.svg">
