@@ -20,7 +20,7 @@
 
 
   
-  <img align="center" alt="ViteJS" height="30" width="40" src="https://github.com/user-attachments/assets/26f8d7ff-57a9-4c25-b51c-3648dba5ddd1">
+  <img align="center" alt="ViteJS" height="30" width="30" src="https://github.com/user-attachments/assets/26f8d7ff-57a9-4c25-b51c-3648dba5ddd1">
 
   
   <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/prisma/docs/main/images/logo-icon.svg">
