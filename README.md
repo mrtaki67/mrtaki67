@@ -20,7 +20,9 @@
 
 
   
-  <img align="center" alt="ViteJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg">
+  <img align="center" alt="ViteJS" height="30" width="40" src="https://github.com/user-attachments/assets/26f8d7ff-57a9-4c25-b51c-3648dba5ddd1">
+
+  
   <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/prisma/docs/main/images/logo-icon.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
