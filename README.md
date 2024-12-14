@@ -15,13 +15,10 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="40" width="40" src="https://github.com/user-attachments/assets/e762aba6-7fb2-4ba2-9f4e-8c2267d0d321"> 
   <img align="center" alt="TailwindCSS" height="30" width="50" src="https://github.com/user-attachments/assets/28205e2c-c578-4397-8597-420fd8a272bd">
-  <img align="center" alt="ViteJS" height="30" width="30" src="https://github.com/user-attachments/assets/26f8d7ff-57a9-4c25-b51c-3648dba5ddd1">
-
-  <img align="center" alt="Prisma" height="30" width="40" src="https://github.com/user-attachments/assets/2489691e-9293-4933-89f9-0f9aef3bdecc">
-
-  
+  <img align="center" alt="ViteJS" height="30" width="30" src="https://github.com/user-attachments/assets/26f8d7ff-57a9-4c25-b51c-3648dba5ddd1">  
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Prisma" height="30" width="40" src="https://github.com/user-attachments/assets/2489691e-9293-4933-89f9-0f9aef3bdecc">
 </div>
 
 ---
