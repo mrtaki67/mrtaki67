@@ -16,7 +16,8 @@
   
   <img align="center" alt="NestJS" height="40" width="40" src="https://github.com/user-attachments/assets/e762aba6-7fb2-4ba2-9f4e-8c2267d0d321"> 
   
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/user-attachments/assets/1fd4aa96-0ad3-420b-8c8c-b226671d6c9b">
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/user-attachments/assets/28205e2c-c578-4397-8597-420fd8a272bd">
+
 
   
   <img align="center" alt="ViteJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg">
