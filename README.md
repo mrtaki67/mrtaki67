@@ -39,7 +39,7 @@
 ## 📬 Entre em Contato  
 
 <div> 
-  <a href="mailto:castrothiago6167@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:thiagoc.company@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
