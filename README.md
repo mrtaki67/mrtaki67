@@ -25,10 +25,10 @@
 
 ## 🛠 Ferramentas e Habilidades  
 
-- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, ReactJS, TailwindCSS  
+- **Frontend**:ReactJS, TailwindCSS  
 - **Backend**: NodeJS, NestJS, Prisma  
 - **Banco de Dados**: MySQL  
-- **Outras Ferramentas**: ViteJS, NPM  
+- **Outras Ferramentas**: ViteJS
 
 ---
 
