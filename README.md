@@ -14,15 +14,6 @@
 
 ---
 
-## 🛠 Ferramentas e Habilidades  
-
-- **Frontend**:ReactJS, TailwindCSS  
-- **Backend**: NodeJS, NestJS, Prisma  
-- **Banco de Dados**: MySQL  
-- **Outras Ferramentas**: ViteJS
-
----
-
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtaki67&show_icons=true&theme=gotham)
 
 ---
