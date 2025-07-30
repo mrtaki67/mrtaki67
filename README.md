@@ -1,4 +1,5 @@
-# Opa, tudo bem? Me chamo Thiago! :D  
+# THIAGO CASTRO
+###  Full-Stack | React - Nest
 📚 Estudando para me tornar engenheiro de software  
 💻 Evoluindo para Desenvolvedor Full-Stack  
 
