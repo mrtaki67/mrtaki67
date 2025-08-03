@@ -1,11 +1,6 @@
-<div align="center" >
+<div style="display: flex; align-items: center; flex-direction: row; ">
   <h1>THIAGO CASTRO</h1>
-  <div style="display: flex; align-items: center; flex-direction: row; ">
-    <h3>Full-Stack | React - Nest</h3>  
-    <a href="https://www.linkedin.com/in/thiago-castro-dev">
-      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/55d51399-b504-4743-8f56-923787db66fe" />
-    </a>
-  </div>
+  <h3>Full-Stack | React - Nest</h3>  
 </div> 
 
 ---
