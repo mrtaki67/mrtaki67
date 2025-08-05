@@ -31,12 +31,8 @@
 ---
 
 <div style="display: flex; gap: 10px; margin: 15px 0;" >
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtaki67&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtaki67&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtaki67&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" height="200"/>
 </div>
-
----
-
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
   <a href="mailto:thiagoc.company@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
