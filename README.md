@@ -1,7 +1,3 @@
-<p align="center" style="max-width: 120px; max-height: 798px; ">
-  <img width="100%" height="100%" alt="wallpaper" src="https://github.com/user-attachments/assets/7d8df6e5-3962-4884-8d89-b2dbd3eda50b" />
-</p>
-
 <div style="text-align: center;">
   <h1 align="center" style="display: inline-block; font-size: 2.5em; font-family: 'Courier New', Courier, monospace; overflow: hidden; white-space: nowrap; border-right: 0.15em solid #00ff00; animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;">
     I'm Thiago Castro
