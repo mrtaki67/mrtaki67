@@ -30,7 +30,7 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;" >
+<div style="display: flex; gap: 10px; margin: 15px 0;" >
   <img src="https://github-readme-stats.vercel.app/api?username=mrtaki67&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtaki67&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
