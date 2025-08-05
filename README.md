@@ -1,8 +1,10 @@
 <div style="text-align: center;">
   <h1 align="center" style="display: inline-block; font-size: 2.5em; font-family: 'Courier New', Courier, monospace; overflow: hidden; white-space: nowrap; border-right: 0.15em solid #00ff00; animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;">
-    I'm Thiago Castro
+    <img width="1700" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/10741e30-de32-4206-a73b-7588ff4e5512" />
+
+
   </h1>
-  <h3 align="center" >Desenvolvedor Full Stack | React & NestJS</h3>
+<!--   <h3 align="center" >Desenvolvedor Full Stack | React & NestJS</h3> -->
 </div>
 
 <p align="justify">
