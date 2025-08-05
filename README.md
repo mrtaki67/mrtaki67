@@ -2,7 +2,7 @@
   <h1 align="center" style="display: inline-block; font-size: 2.5em; font-family: 'Courier New', Courier, monospace; overflow: hidden; white-space: nowrap; border-right: 0.15em solid #00ff00; animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;">
     I'm Thiago Castro
   </h1>
-  <h3 align="center" >Desenvolvedor Full Stack em Formação | Apaixonado por React & NestJS</h3>
+  <h3 align="center" >Desenvolvedor Full Stack | React & NestJS</h3>
 </div>
 
 <p align="justify">
@@ -33,8 +33,8 @@ Construindo minha stack com as seguintes tecnologias:
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtaki67&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtaki67&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrtaki67&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtaki67&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
