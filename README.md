@@ -1,4 +1,6 @@
 <div style="text-align: center;">
+  <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/f513eea5-5e56-4d4b-9d0e-2e134ddbe43a" />
+
   <h1 align="center" style="display: inline-block; font-size: 2.5em; font-family: 'Courier New', Courier, monospace; overflow: hidden; white-space: nowrap; border-right: 0.15em solid #00ff00; animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;">
     I'm Thiago Castro
   </h1>
