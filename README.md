@@ -10,7 +10,6 @@
     ferramentas incríveis, enquanto cresço como profissional e contribuo para projetos reais.  
 </p>
 
----
 <div align="center">
   <h2>🚀 Construindo minha stack com as seguintes tecnologias</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 15px 0;">
