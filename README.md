@@ -34,6 +34,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtaki67&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" height="200"/>
 </div>
 
+<h2></h2>
+
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
   <a href="mailto:thiagoc.company@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-castro-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
