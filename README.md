@@ -6,8 +6,8 @@
 </div>
 
 <p align="justify">
-    Sou um Desenvolvedor Full Stack, transformando minha paixão por tecnologia em código! ☕ Dedico-me a estudar e praticar diariamente, com o objetivo de criar aplicações modernas, escaláveis e impactantes. Estou focado em dominar React, NestJS e       outras     
-    ferramentas incríveis, enquanto cresço como profissional e contribuo para projetos reais.  
+  Sou um Desenvolvedor Full Stack, transformando minha paixão por tecnologia em código! ☕ Dedico-me a estudar e praticar diariamente, com o objetivo de criar aplicações modernas, escaláveis e impactantes. Estou focado em dominar React, NestJS e       outras     
+  ferramentas incríveis, enquanto cresço como profissional e contribuo para projetos reais.  
 </p>
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 ---
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;" >
   <img src="https://github-readme-stats.vercel.app/api?username=mrtaki67&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtaki67&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
